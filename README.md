@@ -1,1 +1,2 @@
-# crimediggers
+This repository contains work (read: spoilers) for IT challenges provided by the Dutch police via [#crimediggers](https://www.crimediggers.nl/ "#crimediggers").
+All challenges are fictional and for educational purposes.
