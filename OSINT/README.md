@@ -10,7 +10,7 @@ The name "Zero Beta" tied to z3r0b3t403@gmail.com is a pseudonym which explains 
 ### Google
 When we search for zerobeta04 on google we find a website [zerobeta04.nl](http://www.zerobeta04.nl/ "zerobeta04.nl").
 The homepage of the website states in Dutch that it is under construction ("In aanbouw").
-Crawling the webserver gives us a [webpage](http://www.zerobeta04.nl/notes.txt "webpage"), which contains the following text:
+[Crawling](http://www.zerobeta04.nl/robots.txt "Crawling") the webserver gives us a [webpage](http://www.zerobeta04.nl/notes.txt "webpage"), which contains the following text:
 
 >Marktplaats:
 
